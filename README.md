@@ -2,8 +2,8 @@
 
 ![frontpage](https://github.com/dumaas/movie-recommendations/blob/main/images/frontend-screenshot.png?raw=true)
 
-[View the frontend in your browser](https://movie-recommendations-api.herokuapp.com/)\
-[View the api in your browser](https://movie-recommendations-api.netlify.app/)
+[View the api in your browser](https://movie-recommendations-api.herokuapp.com/)\
+[View the frontend in your browser](https://movie-recommendations-api.netlify.app/)
 
 ## Requirements
 1. [Docker](https://docs.docker.com/install/)
