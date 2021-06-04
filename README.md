@@ -1,5 +1,6 @@
 # Movie Recommendations
 
+![frontpage](https://github.com/dumaas/movie-recommendations/blob/main/images/frontend-screenshot.png?raw=true)
 
 ## Requirements
 1. [Docker](https://docs.docker.com/install/)
