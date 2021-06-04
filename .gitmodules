@@ -1,0 +1,6 @@
+[submodule "movie-recommendations-api"]
+	path = movie-recommendations-api
+	url = git@github.com:dumaas/movie-recommendations-api.git
+[submodule "movie-recommendations-frontend"]
+	path = movie-recommendations-frontend
+	url = git@github.com:dumaas/movie-recommendations-frontend.git
